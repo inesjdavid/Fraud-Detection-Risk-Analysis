@@ -1,0 +1,4 @@
+﻿cenario,w_rules,w_ml,score_medio,pct_alto_critico,pct_nivel_alterado_vs_base
+ML -20%,0.555556,0.444444,10.55,4.07,0.9
+Base,0.5,0.5,11.3,4.04,0.0
+ML +20%,0.454545,0.545455,11.91,4.05,0.88
